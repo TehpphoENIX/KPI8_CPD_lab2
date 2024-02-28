@@ -1,0 +1,20 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++17",
+      "-I../imgui",
+      "-I../imgui/backends",
+      "-g",
+      "-Wall",
+      "-Wformat",
+      "-c",
+      "-o",
+      "main.o",
+      "main.cpp"
+    ],
+    "directory": "/home/teh-phoenix/Documents/8/cpp/lab2/example",
+    "file": "/home/teh-phoenix/Documents/8/cpp/lab2/example/main.cpp",
+    "output": "/home/teh-phoenix/Documents/8/cpp/lab2/example/main.o"
+  }
+]
